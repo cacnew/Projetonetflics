@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "277877411895",
+    "firebase_url": "https://netflixprojeto-fbc58.firebaseio.com",
+    "project_id": "netflixprojeto-fbc58",
+    "storage_bucket": "netflixprojeto-fbc58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277877411895:android:9f59f7354325eb3ce92fb2",
+        "android_client_info": {
+          "package_name": "br.iesb.mobile.netflics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277877411895-budf0r4nsc7dl6acuc493l3d9395anr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILqtd_RcxwlOxW2RP32SQUgQ4pZXll50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277877411895-budf0r4nsc7dl6acuc493l3d9395anr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277877411895:android:c913fb5ea1510b79e92fb2",
+        "android_client_info": {
+          "package_name": "com.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277877411895-s47vr17lqpeu8u6f5sq6kqcbr8tmh1k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.netflix",
+            "certificate_hash": "9d2ca066361d5d840072cbb00b5e82c46f7c99ef"
+          }
+        },
+        {
+          "client_id": "277877411895-budf0r4nsc7dl6acuc493l3d9395anr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILqtd_RcxwlOxW2RP32SQUgQ4pZXll50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277877411895-budf0r4nsc7dl6acuc493l3d9395anr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277877411895:android:8c98499ebc5bc856e92fb2",
+        "android_client_info": {
+          "package_name": "netflix.react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277877411895-budf0r4nsc7dl6acuc493l3d9395anr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILqtd_RcxwlOxW2RP32SQUgQ4pZXll50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277877411895-budf0r4nsc7dl6acuc493l3d9395anr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
